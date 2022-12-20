@@ -1,2 +1,2 @@
-# Weather Project PyOWM For PythonCore
+# PyOWM Weather Project For PythonCore
  
