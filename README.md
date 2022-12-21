@@ -1,2 +1,2 @@
-# PyOWM Weather Project For PythonCore
+# Homework For PythonCore: PyOWM Weather Forecast
  
